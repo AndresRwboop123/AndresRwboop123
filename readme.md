@@ -10,3 +10,10 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 
 ## number
 My number phone is 90000000
+
+
+## Hobbies 
+
+- Dancing
+- eat
+- Sleep
