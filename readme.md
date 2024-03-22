@@ -18,7 +18,7 @@ My number phone is 90000000
 - HTML
 - CSS
 - JS
-- rstudio
+
 
 
 ## Hobbies 
