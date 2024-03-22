@@ -12,10 +12,13 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 My number phone is 90000000
 
 
+
+
 ## techonlogies
 - HTML
 - CSS
 - JS
+- rstudio
 
 
 ## Hobbies 
@@ -28,3 +31,8 @@ My number phone is 90000000
 
 - Didactics
 - coaching
+
+
+## family
+
+my family is good , need much affect and passive , i'am honored less is star for my family.
