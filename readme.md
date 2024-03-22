@@ -16,3 +16,15 @@ My number phone is 90000000
 - HTML
 - CSS
 - JS
+
+
+## Hobbies 
+
+- Dancing
+- eat
+- Sleep
+
+## skills
+
+- Didactics
+- coaching
