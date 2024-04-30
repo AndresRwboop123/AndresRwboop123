@@ -5,7 +5,7 @@ Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angul
 
 work as a store/checkout assistant.
 I did my internship for more than 7 months in Vital Group as Business Intelligence.
-I spent more than a year as an administrative assistant at D&J accountants.
+I worked as an HFC assistant at a tertiary company for Movistar, where I handled reports and telecommunications tasks for 5 months. Later, I worked as a cashier/assistant at ApuestaTotal for over 7 months."
 
 
 
